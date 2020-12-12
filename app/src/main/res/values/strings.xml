@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PocketCourseManager</string>
+    <string name="register">Register</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="pocket_course_manager">Pocket Course Manager</string>
+    <string name="login_to_continue">Login To continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="login">login</string>
+    <string name="enter_your_email_and_password_to_create_new_account">Enter your email and password to create new account</string>
+    <string name="student_registration">Student Registration</string>
+    <string name="new_user">New User</string>
+    <string name="course_name">Course Name</string>
+    <string name="name">Name</string>
+    <string name="admin_registration">Admin Registration</string>
+    <string name="create_course">Create Course</string>
+    <string name="description">Description</string>
+    <string name="start_date">Start Date</string>
+    <string name="duration">Duration</string>
+    <string name="end_date">End Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="fee">Fee</string>
+    <string name="my_courses">My Courses</string>
+</resources>

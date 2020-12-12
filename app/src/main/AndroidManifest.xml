@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.triangle.pocketcoursemanager">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.CourseSelectionActivity" />
+        <activity android:name=".activities.NewCourseActivity" />
+        <activity android:name=".activities.DashboardActivity" />
+        <activity android:name=".activities.AdminRegistrationsActivity" />
+        <activity android:name=".activities.CourseDetailsActivity" />
+        <activity android:name=".activities.StudentRegisterActivity" />
+        <activity android:name=".activities.UserLoginActivity">
+        </activity>
+        <activity android:name=".activities.MainActivity" />
+    </application>
+
+</manifest>
